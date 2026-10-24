@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [vicem](https://github.com/Rakkunn/vicem) - Zero-dependency AI coding agent context baton and compression skill: hand off structured session state across Claude Code, Codex, Cursor, and Gemini CLI, skeletonize code by 80-90% with lossless MCP rehydration, slim test logs, and redact secrets locally.
 
 
 ## 📊 Data & Analysis
